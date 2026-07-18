@@ -1,3 +1,0 @@
-Sources
-
- Arxiv PyPI documentation 
