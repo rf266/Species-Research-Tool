@@ -15,7 +15,12 @@ parser = LlamaParse(api_key = first_api
 
 documents = SimpleDirectoryReader(
     input_dir="./docs", 
-    file_extractor={".pdf": parser}
+    file_extractor={"pdf": parser}
 ).load_data()
 print("docs ingested")
 print(documents[0].text[:100])
+
+import pickle
+
+with open("mds ", 'wb') as f:
+    pickle.dump(documents, f)
