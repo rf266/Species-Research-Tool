@@ -1,4 +1,4 @@
-AI tools for debugging/ideation
+AI tools for debugging/ideation, pathway illustration etc
 
 Arxiv docs
 OpenAlex/CORE/PubMed/Europe PMC etc docs
