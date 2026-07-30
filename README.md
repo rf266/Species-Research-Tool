@@ -8,6 +8,8 @@ Gemini API docs
 HF models
 OpenRouter docs
 Requests docs
+HuggingFace docs
+
 - Papers/documents from various online sources including government/research organisations
 
 
@@ -21,3 +23,6 @@ Requests docs
 
 
 - https://www.youtube.com/watch?v=yzPQaNhuVGU - RAG and LLamaindex
+
+
+- https://huggingface.co/docs/transformers/en/quantization/bitsandbytes - Model quantization
