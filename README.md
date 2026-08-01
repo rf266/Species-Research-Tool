@@ -26,3 +26,12 @@ HuggingFace docs
 
 
 - https://huggingface.co/docs/transformers/en/quantization/bitsandbytes - Model quantization
+
+
+- https://developers.llamaindex.ai/python/framework-api-reference/llms/huggingface/ - HF 
+
+
+- https://stackoverflow.com/questions/58608425/how-to-append-new-data-to-pickle-file-using-python - Pickle
+
+
+- https://stackoverflow.com/questions/2104080/how-do-i-check-file-size-in-python - file sizes;
