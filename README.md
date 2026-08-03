@@ -9,6 +9,7 @@ HF models
 OpenRouter docs
 Requests docs
 HuggingFace docs
+Pinecone docs
 
 - Papers/documents from various online sources including government/research organisations
 
