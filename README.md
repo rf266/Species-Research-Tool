@@ -2,14 +2,15 @@ AI tools for debugging/ideation, pathway illustration etc
 
 Arxiv docs
 OpenAlex/CORE/PubMed/Europe PMC etc docs
-LLamaIndex/Llamaparse docs
+LLamaIndex framework/Llamaparse docs
 OpenAI docs
 Gemini API docs
-HF models
+HuggingFace models
 OpenRouter docs
 Requests docs
 HuggingFace docs
 Pinecone docs
+Vue.js docs
 
 - Papers/documents from various online sources including government/research organisations
 
@@ -36,3 +37,6 @@ Pinecone docs
 
 
 - https://stackoverflow.com/questions/2104080/how-do-i-check-file-size-in-python - file sizes;
+
+
+- https://www.youtube.com/watch?v=zwvUAh91itA - Vue 
